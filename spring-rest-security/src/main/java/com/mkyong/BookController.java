@@ -87,6 +87,6 @@ public class BookController {
     }
    @PostMapping("/create")
 public Book createBook(@RequestBody Book book){
-    return null;
+    repository.save(book);
 }
 }
