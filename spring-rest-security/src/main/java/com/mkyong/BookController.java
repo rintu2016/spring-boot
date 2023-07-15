@@ -85,5 +85,8 @@ public class BookController {
     void deleteBook(@PathVariable Long id) {
         repository.deleteById(id);
     }
+    public String getById(){
+        return null;
+    }
 
 }
