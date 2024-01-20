@@ -67,6 +67,3 @@ public String fetchById(){
 public Response updateUser(){
     return null;
 }
-public Rsponse deleteUser(){
-    return null;
-}
