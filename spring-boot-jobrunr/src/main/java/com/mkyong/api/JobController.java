@@ -58,15 +58,7 @@ public String fetchJobById(){
 
     return null;
 }
-public String fetchById(){
+public Response authenticate(){
     return null;
 }
-    public Response createUser(){
-        return null;
-}
-public Response updateUser(){
-    return null;
-}
-public Rsponse deleteUser(){
-    return null;
 }
