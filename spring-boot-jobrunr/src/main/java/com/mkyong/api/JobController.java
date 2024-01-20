@@ -64,6 +64,6 @@ public String fetchById(){
     public Response createUser(){
         return null;
 }
-public Response fetchByName(){
+public Response fetchById(){
     return null;
 }
